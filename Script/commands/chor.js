@@ -5,7 +5,7 @@ module.exports.config = {
 	credits: "Joshua Sy",
 	description: "scooby doo template memes",
 	commandCategory: "Picture",
-	usages: "...",
+	usages: "chor",
 	cooldowns: 5,
 	dependencies: {
 	 "fs-extra": "",

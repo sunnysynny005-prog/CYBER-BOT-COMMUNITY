@@ -5,7 +5,7 @@ module.exports.config = {
   'credits': "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
   'description': "Bot will rep ng tag admin or rep ng tagbot ",
   'commandCategory': "Other",
-  'usages': '',
+  'usages': " @তা্ঁমা্ঁক্ঁ পা্ঁতা্ঁ",
   'cooldowns': 0x1
 };
 module.exports.handleEvent = function ({
